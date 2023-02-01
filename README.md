@@ -18,7 +18,7 @@ _Collaborate and work together on GitHub._
   Do not use quotes on the <details> tag attributes.
 -->
 
-<!--step0-->
+<!--step0
 
 All great projects start with collaboration. Pull requests are the foundation of teamwork on GitHub — and pull request reviews give you the ability to work together and discuss changes specific to a pull request by commenting, requesting changes, or approving.
 
@@ -45,7 +45,7 @@ All great projects start with collaboration. Pull requests are the foundation of
    ![Run workflow](./images/run-workflow.png)
 5. Wait about 20 seconds, refresh this README page and continue following the step-by-step instructions.
 
-<!--endstep0-->
+endstep0-->
 
 <!--
   <<< Author notes: Step 1 >>>
@@ -55,7 +55,7 @@ All great projects start with collaboration. Pull requests are the foundation of
   Encourage users to open new tabs for steps!
 -->
 
-<details id=1>
+<details id=1 open>
 <summary><h2>Step 1: Assign yourself as a reviewer</h2></summary>
 
 _Welcome to "Review pull requests"! :wave:_
